@@ -19,3 +19,4 @@ MOPDataConvert
 //将可显示字符转化为HEX
 +(NSString*)UTF8ToHEX:(NSString*)string;
 ```
+
